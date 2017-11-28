@@ -1,23 +1,22 @@
-function myfunction(){
-	document.getElementById("button").innerHTML = "Some words to say";
+function todayfunction(){
+	document.getElementById("button").innerHTML = "Today, the amount of people that will lose DACA is 6% of the content sent everyday on Snapchat. ";
 
 }
 
 
 
-function orangefunction(){
-	document.getElementById("button").innerHTML = "gray";
+function seventeenfunction(){
+	document.getElementById("button").innerHTML = "In 2017, the amount of people at risk of losing DACA is close to the amount of minutes in a year.";
 	
 }
 
 
 
-function greenfunction(){
-	document.getElementById("button").innerHTML = "green";
+function eightteenfunction(){
+	document.getElementById("button").innerHTML = "In 2018, the number of people who will lose DACA is about equal to the number of teachers employed in California.";
 }
 
 
-function bluefunction(){
-	document.getElementById("button").innerHTML = "rcvhbjvcxdzfxngmchv,";
-	document.getElementById("button").style.backgroundColor = "green";
+function nineteenfunction(){
+	document.getElementById("button").innerHTML = "In 2019, the number of people who will have lost DACA is about the number of Apple computers sold in a month.";
 }
