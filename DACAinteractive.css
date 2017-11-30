@@ -7,12 +7,7 @@
 	background-color: #FF9B42;
 	color: white;
 	font-family: 'Oswald', sans-serif;
-	font-size: 350px;
-}
-/*#chart {*/
-	/*background-color: #8EA4FF;*/
-	/*height: 300px;*/
-	/*text-align: center;*/
+	height: 25%;
 }
 
 .time {
@@ -132,6 +127,9 @@
 }
 #names {
 	text-align: center;
+	padding-bottom: 4%;
+	padding-top: 2%;
+
 
 }
 
