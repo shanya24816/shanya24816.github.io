@@ -4,10 +4,10 @@
 	padding-top: 15px;
 }
 #daca {
-	background-color: #FF9B42;
 	color: white;
 	font-family: 'Oswald', sans-serif;
-	height: 25%;
+	height: 55%;
+	padding-right: 25%;
 }
 
 .time {
@@ -16,8 +16,7 @@
 	font-family: 'Oswald', sans-serif;
 }
 .year {
-	background-color: #056571
-;
+	background-color: #056571;
 	color: white;
 	text-align: center;
 	width: 100%;
@@ -46,7 +45,7 @@
   max-width: 100% ;
   position: relative;
   margin-top: 5px;
-  margin-right: 5px;
+  margin-right: 5px; 
 }
 
 
@@ -107,29 +106,35 @@
   to {opacity: 1}
 }
 
-/* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
 
-.outofeleven {
-  padding-left: 7%;
 
-}
-#have {
-	color:  #FF6A5C;
-}
-#lost {
-	color: #FF9B42;
-}
-#other {
-	color: #81B29A;
-}
 #names {
 	text-align: center;
-	padding-bottom: 4%;
+	padding-bottom: 2%;
 	padding-top: 2%;
-
-
+	background-color: #056571;
+	color: white;
 }
-
+#firstimage {
+	padding-top: 5%;
+	background-color: #FF9B42;
+	min-height: 20px;
+	min-width: 80px;
+	max-height: 60px;
+}
+.group {
+	text-align: center;
+}
+#textstuff {
+	background-color:  #FF9B42;
+	text-align: center;
+	color: white;
+	padding-left: 15%; 
+	padding-right: 15%; 
+}
+#subtitle {
+	text-align: center;
+}
